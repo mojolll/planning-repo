@@ -32,7 +32,7 @@
     
 5월
 
-- OAuth 2.0 기반 SSO 동작 구현 및 *AAA*을 위한 **Spring Security 구현
+- OAuth 2.0 기반 SSO 동작 구현 및 Spring Security 적용
     - ***Single Sign***-**On**(***SSO***)
         
         1회 사용자 인증으로 다수의 애플리케이션 및 웹사이트에 대한 사용자 로그인을 허용하는 인증 솔루션입니다. (Naver, Kakao 로그인 구현)
