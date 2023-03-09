@@ -71,9 +71,3 @@
 
 9월
 - 실제 사용자 서비스 제공
-
-
-# Reference
->[한국예술종합학교 디자인과 졸업전시 사이트](http://www.kartsdesign.net/)
-- 미래 서비스 (디자이너 문제)
->[Planningo | 플래닝고](https://www.planningo.io/)
