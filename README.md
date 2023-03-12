@@ -11,7 +11,7 @@
 
 3월
 
-- E-R Diagram 작성 및 API 명세서 작성
+- E-R Diagram, IA 작성 및 API 명세서 작성
   - **_ER diagram (Entity-Relationship Model)_**
     현실세계의 요구사항(Requirements)들로 부터 Database를 설계과정
 
@@ -28,7 +28,7 @@
 
 5월
 
-- OAuth 2.0 기반 SSO 동작 구현 및 Spring Security 적용
+- OAuth 2.0 기반 SSO 동작 구현 및 Spring Security 적용 및 CORS 처리
   - **_Single Sign_**-**On**(**_SSO_**)
     1회 사용자 인증으로 다수의 애플리케이션 및 웹사이트에 대한 사용자 로그인을 허용하는 인증 솔루션입니다. (Naver, Kakao 로그인 구현)
   - **_AAA(Authentication Authorization Accounting )_**
@@ -42,7 +42,7 @@
 
 7월
 
-- CORS 처리 및 Parmater 변조, SQL INJECTION, CSRF(Cross-site request forgery)등 보안 이슈 처리하기
+- Parmater 변조, SQL INJECTION, CSRF(Cross-site request forgery)등 보안 이슈 처리하기
 - 모니터링 시스템 구축
 
 8월
