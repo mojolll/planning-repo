@@ -3,6 +3,8 @@
 ---
 
 ![메뉴 구조(사이트맵)](https://user-images.githubusercontent.com/110734817/223634922-7e4ed6c2-5fe5-40a8-bb8a-841ff7d71696.png)
+![image](https://user-images.githubusercontent.com/110734817/224632447-93a5e718-fca4-4e27-a944-a6dbd522d1cb.png)
+
 
 개발과 동시에 테스트 코드를 작성하려고 합니다. (설계 -> 테스트 (->설계 수정) -> 개발)
 
