@@ -17,6 +17,21 @@
 ||이미지 등록|일반회원|X|X|X|X|학교이메일 인증을 안한 회원|
 |||학교인증 회원|O|O|O|O|이미지 크기 한계 설정, 이미지 공유기능, 이미지 최적화를 어떻게 할 것인지(썸네일 이미지를 따로 추출한다. 혹은 다른 의견)|
 
+# API
+|URL|HTTP Method|상태|Comment|
+|:---:|:---:|:---:|:---:|
+|v1/auth/signup|POST||회원가입|
+|v1/auth/login|POST||로그인 (토큰O)|
+|v1/auth/login/kakao|GET||카카오 로그인 (토큰X)|
+|v1/auth/login/naver|GET||네이버 로그인 (토큰X)|
+|v1/users|GET||회원 정보 조회|
+|v1/users|PUT||회원 정보 수정|
+|v1/users/user|DELETE||회원탈퇴|
+|v1/boards/category|GET||카테고리로 게시물 조회|
+|v1/boards/university|GET||대학교로 게시물 조회|
+|v1/boards/user|GET||유저로 게시물 조회|
+
+---
 
 개발과 동시에 테스트 코드를 작성하려고 합니다. (설계 -> 테스트 (->설계 수정) -> 개발)
 
