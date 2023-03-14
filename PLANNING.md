@@ -2,9 +2,13 @@
 
 ---
 
+# Menu Structure
 ![메뉴 구조(사이트맵)](https://user-images.githubusercontent.com/110734817/223634922-7e4ed6c2-5fe5-40a8-bb8a-841ff7d71696.png)
 
+# ERD
+<img width="744" alt="ERD-mojolll" src="https://user-images.githubusercontent.com/110734817/224895321-c375a44a-b927-4dca-b4fa-4949a8087718.png">
 
+# CRUD
 |대구분|중구분|사용자|Create(쓰기)|Read(읽기)|Update(수정)|Delete(삭제)|비고|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |전시|개인 졸업전시 작성|일반 회원|X|O|X|X|학교이메일 인증을 안한 회원|
