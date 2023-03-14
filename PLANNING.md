@@ -1,15 +1,13 @@
 # 🎓mojolll(모두의졸전) 백엔드 개발 계획
 
----
-
-# Menu Structure
+## Menu Structure
 ![메뉴 구조(사이트맵)](https://user-images.githubusercontent.com/110734817/223634922-7e4ed6c2-5fe5-40a8-bb8a-841ff7d71696.png)
 
-# ERD
+## ERD
 <img width="581" alt="ERD-mojolll" src="https://user-images.githubusercontent.com/110734817/224912908-25b233f5-1b9c-4c13-aec0-affb1c7680b7.png">
 
 
-# CRUD
+## CRUD
 |대구분|중구분|사용자|Create(쓰기)|Read(읽기)|Update(수정)|Delete(삭제)|비고|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |전시|개인 졸업전시 작성|일반 회원|X|O|X|X|학교이메일 인증을 안한 회원|
@@ -17,7 +15,7 @@
 ||이미지 등록|일반회원|X|X|X|X|학교이메일 인증을 안한 회원|
 |||학교인증 회원|O|O|O|O|이미지 크기 한계 설정, 이미지 공유기능, 이미지 최적화를 어떻게 할 것인지(썸네일 이미지를 따로 추출한다. 혹은 다른 의견)|
 
-# API
+## API
 |URL|HTTP Method|상태|Comment|
 |:---:|:---:|:---:|:---:|
 |v1/auth/signup|POST||회원가입|
