@@ -6,7 +6,7 @@
 ![메뉴 구조(사이트맵)](https://user-images.githubusercontent.com/110734817/223634922-7e4ed6c2-5fe5-40a8-bb8a-841ff7d71696.png)
 
 # ERD
-<img width="744" alt="ERD-mojolll" src="https://user-images.githubusercontent.com/110734817/224895321-c375a44a-b927-4dca-b4fa-4949a8087718.png">
+<img width="586" alt="ERD-mojolll" src="https://user-images.githubusercontent.com/110734817/224906856-df7de20e-4824-4a1b-b75d-1740d4dd3904.png">
 
 # CRUD
 |대구분|중구분|사용자|Create(쓰기)|Read(읽기)|Update(수정)|Delete(삭제)|비고|
